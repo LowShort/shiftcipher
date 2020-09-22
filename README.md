@@ -1,5 +1,5 @@
 # SCREENSHOOT PROGRAM
 ![Alt text](https://i.ibb.co/Jqc89pS/SS.jpg "Shift Cipher")
 
-Gede Bagus
-140810180068
+Muhammad Iqbal Alif Fadilla
+140810180020
